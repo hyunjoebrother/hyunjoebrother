@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Today%20is%20Mei-day&fontSize=70)
+![trophy](https://github-profile-trophy.vercel.app/?username=hyunjoebrother)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+![hyunjoebrother's github stats](https://github-readme-stats.vercel.app/api?username=hyunjoebrother&show_icons=true)
+[![hyunjoebrother's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoebrother&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hyunjoebrother)                                                
 <!--
 **hyunjoebrother/hyunjoebrother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
