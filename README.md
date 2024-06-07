@@ -10,8 +10,7 @@
 ## Mei기자의 주요 뉴스 📸
 ### 1. MVP 출시 2주 만에 사용자 6.7k명 달성해버린 토이 프로젝트가 있다?! :no_mouth: 
 <a href="https://www.saengcaday.com/" target="_blank">사이트 보러가기</a>
-<del>(4월 초에 정식 출시를 위한 업데이트 진행중입니다!)</del>
-<strong>🎊 [특보] 사용자 3만 명 달성 🎊</strong>
+<strong>🎊 [특보] 사용자 4만 명 달성 🎊</strong>
 
 ### 2. 팬심 가득한 토이 프로젝트, <strong>i18n 다국어 지원</strong>으로 외국인을 포함한 900명의 팬들과 함께 덕질하기! 💎
 <a href="https://saytheunit.com/" target="_blank">사이트 보러가기</a>
