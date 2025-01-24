@@ -2,7 +2,7 @@
 
 <strong>아이디어를 직접 이루는걸 좋아하는, 행동파 개발자</strong><br />
 <strong>기획부터 디자인, 개발과 배포 그리고 마케팅까지,</strong>
-### "안녕하세요. 마음이 이끄는 곳으로 달리는 개발자 Mei입니다."
+### "안녕하세요. 마음이 이끄는 곳으로 달리는 크리에이터 Mei입니다."
 
 <br />
 <br />
@@ -10,7 +10,7 @@
 ## Mei기자의 주요 뉴스 📸
 ### 1. MVP 출시 2주 만에 사용자 6.7k명 달성해버린 토이 프로젝트가 있다?! :no_mouth: 
 <a href="https://www.saengcaday.com/" target="_blank">사이트 보러가기</a>
-<strong>🎊 [특보] 누적 사용자 7만 명 달성 🎊</strong>
+<strong>🎊 [특보] 누적 사용자 13만 명 달성 🎊</strong>
 
 ### 2. 팬심 가득한 토이 프로젝트, <strong>i18n 다국어 지원</strong>으로 외국인을 포함한 900명의 팬들과 함께 덕질하기! 💎
 <a href="https://saytheunit.com/" target="_blank">사이트 보러가기</a>
